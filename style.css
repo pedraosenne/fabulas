@@ -6,6 +6,7 @@ body{
 
     font-size: 20px;
      line-height: 1.5;
+     background-color: maroon;
      border-color:rgb(255, 228, 196);
      font-family: "Noto Sans JP", sans-serif;
 }      
@@ -13,3 +14,8 @@ body{
         width: 500px;
         border-radius: 3px;
       }
+]
+     {
+
+
+     }
